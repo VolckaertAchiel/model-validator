@@ -1,6 +1,6 @@
 {
   "name": "nodejs-model-validator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Model Validator for applications that need models with typings and validation without the help of typescript",
   "main": "ModelValidatorModule.js",
   "scripts": {
